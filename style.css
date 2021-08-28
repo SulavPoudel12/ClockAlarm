@@ -5,6 +5,11 @@
     margin: auto;
 } */
 
+h1{
+    font-family: cursive;
+    font-size: 2vw;
+}
+
 
 #hour,#min,#sec,.circle,#al{
     background-color: #ffffff;
